@@ -20,13 +20,13 @@
 define('DB_NAME', 'clearkudt_wpb');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'clearkudt_wpb');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Admin123');
+define('DB_PASSWORD', '63T3Al4Y');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'clearkudt_wpb');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
