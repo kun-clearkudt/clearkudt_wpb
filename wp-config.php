@@ -26,7 +26,7 @@ define('DB_USER', 'clearkudt_wpb');
 define('DB_PASSWORD', '63T3Al4Y');
 
 /** MySQL hostname */
-define('DB_HOST', 'clearkudt_wpb');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
