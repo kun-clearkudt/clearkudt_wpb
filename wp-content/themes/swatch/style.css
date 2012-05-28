@@ -162,7 +162,7 @@ pre { padding: 0.1em 0.5em 0.3em 0.7em; border-left: 10px solid #ccc; margin: 1.
 #navigation ul.rss  { margin: 0 0 0 10px; padding: 8px 0; }
 
 /*.nav { z-index:99; margin:0; padding:0; list-style:none; line-height:1; }*/
-.nav { z-index:99; margin:25px 0 0 0; padding:0; list-style:none; line-height:1; }
+.nav { z-index:99; margin:0 0 0 0; padding:0; list-style:none; line-height:1; }
 .nav a  { position:relative; color: #ffffff; display:block; z-index:100; padding:7px 10px; line-height:18px; text-decoration:none; text-shadow:0 1px 0 #000;  }
 .nav li  { float:left; width: auto; margin-left: 15px; }
 .nav li a.sf-with-ul { padding-right:20px; }
@@ -234,8 +234,8 @@ pre { padding: 0.1em 0.5em 0.3em 0.7em; border-left: 10px solid #ccc; margin: 1.
 
 	/* 2.2.2 Top Navigation (optional) */
 	#top { background: #000; }
-	#top .nav { }
-	#top .nav a { color:#ddd; padding:8px 10px; line-height:18px; text-decoration:none; text-shadow:none; }
+	#top .nav { float: right; }
+	#top .nav a { color:#ddd; padding:10px; line-height:11px; text-decoration:none; text-shadow:none; }
 	#top .nav li  {  }
 	#top .nav li a.sf-with-ul { padding-right:20px; }
 	
